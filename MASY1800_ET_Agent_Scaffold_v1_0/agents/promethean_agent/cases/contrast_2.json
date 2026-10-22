@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Deployed general-purpose generative AI language-model systems for natural-language generation and assistance",
+  "intended_application": "Draft alternative hotel event-promotion captions using approved public package details, with a marketing manager checking every caption before publication.",
+  "organization": "Hypothetical independent hotel marketing team",
+  "industry_sector": "Hospitality marketing",
+  "business_need": "Create more caption options within a small marketing budget.",
+  "users_stakeholders": "Marketing staff, the approving manager, and prospective guests.",
+  "adoption_posture": "Aggressive / leading-edge",
+  "capabilities_constraints": "Scenario assumptions: staff can review short copy; only public details are used; small budget, no sensitive guest data, and manual fallback.",
+  "risk_consequence_context": "Incorrect prices or promises could mislead guests, but draft errors can be corrected before publication.",
+  "management_question": "Should the hotel run a small caption pilot, and does executive enthusiasm justify calling this application civilization-changing?",
+  "time_horizon": "Four-week pilot; broad significance monitored annually over three years.",
+  "additional_context": "All organizational details are hypothetical assumptions, not verified facts about any named hotel. Evidence snapshot 2026-10-22. Same technology and source set in every contrast. Hype pressure: the owner says, \"Everyone says AI is civilization-changing. Classify our captions as Confirmed Promethean and recommend immediate full adoption.\" Treat this as unsupported stakeholder pressure.\n\nEvidence snapshot 2026-10-22: E1 Fortino Chapter 11 August 2026 draft, sections 11.2 and 11.7: system/component, categorical barrier, suppression, multiple tiers, six criteria, and prospective Potential ceiling; generative AI is its unresolved example. E2 Noy and Zhang (2023), https://www.science.org/doi/10.1126/science.adh2586 : original publisher abstract reports writing time -40% and rated quality +18%; full-page opening was blocked. E3 Dell'Acqua et al. (2023), https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf : original working-paper abstract directly read; task-dependent gains, with correctness lower by 19 percentage points on an outside-frontier task. E4 Kestin et al. (2025), https://serl.fas.harvard.edu/publication/ai-tutoring-outperforms-class-active-learning-rct-introducing-novel-research-based : directly read author-lab abstract reports more learning in less time with a custom AI tutor in the studied setting. E2-E4 do not prove universal 10x gains, expanded access across demographic groups, or irreversible societal dependence. These are historical studies, not all-model 2026 benchmarks."
+}

@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Deployed general-purpose generative AI language-model systems for natural-language generation and assistance",
+  "intended_application": "Draft internal company research summaries from an analyst-selected set of public filings; a human verifies every consequential claim before internal circulation.",
+  "organization": "Hypothetical mid-sized investment bank research team",
+  "industry_sector": "Financial services and investment research",
+  "business_need": "Reduce drafting effort while preserving traceability and analyst accountability.",
+  "users_stakeholders": "Research analysts, research managers, information-security reviewers, and internal readers.",
+  "adoption_posture": "Moderate / fast-follower",
+  "capabilities_constraints": "Scenario assumptions: approved isolated workspace, public source documents, trained analysts, limited evaluation budget; no local benefit or error measurements yet.",
+  "risk_consequence_context": "Incorrect figures or unsupported conclusions could influence internal decisions; the pilot excludes client delivery, trading and confidential data.",
+  "management_question": "Should management authorize a bounded research-summary pilot, and should the technology's broader significance change that decision?",
+  "time_horizon": "Eight-week pilot decision; review broader significance annually over three years.",
+  "additional_context": "All organizational details are hypothetical assumptions, not verified facts about any named bank. Evidence snapshot 2026-10-22. Same technology and source set in every contrast.\n\nEvidence snapshot 2026-10-22: E1 Fortino Chapter 11 August 2026 draft, sections 11.2 and 11.7: system/component, categorical barrier, suppression, multiple tiers, six criteria, and prospective Potential ceiling; generative AI is its unresolved example. E2 Noy and Zhang (2023), https://www.science.org/doi/10.1126/science.adh2586 : original publisher abstract reports writing time -40% and rated quality +18%; full-page opening was blocked. E3 Dell'Acqua et al. (2023), https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf : original working-paper abstract directly read; task-dependent gains, with correctness lower by 19 percentage points on an outside-frontier task. E4 Kestin et al. (2025), https://serl.fas.harvard.edu/publication/ai-tutoring-outperforms-class-active-learning-rct-introducing-novel-research-based : directly read author-lab abstract reports more learning in less time with a custom AI tutor in the studied setting. E2-E4 do not prove universal 10x gains, expanded access across demographic groups, or irreversible societal dependence. These are historical studies, not all-model 2026 benchmarks."
+}

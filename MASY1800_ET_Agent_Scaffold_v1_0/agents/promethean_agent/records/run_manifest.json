@@ -1,0 +1,38 @@
+{
+  "runs": [
+    {
+      "case": "primary",
+      "agent_version": "1.2-final",
+      "runtime": "ChatGPT/Codex interactive conversation",
+      "method": "Prompt packet read in this conversation, then a fresh model response serialized as JSON; no separate API invocation.",
+      "prompt_file": "work/promethean_agent_primary_prompt.txt",
+      "prompt_sha256": "639d5d3aef06e936e42077258f768543ed8c139b8716029ca33e959240876a48",
+      "response_file": "agents/promethean_agent/responses/primary_response.json",
+      "response_sha256": "545afdb5f0d215d24e378daa2d1423eb32df88dc0adc01f742265ea72a27a4f5",
+      "recorded_at_utc": "2026-10-22T18:35:27.671386+00:00"
+    },
+    {
+      "case": "contrast_1",
+      "agent_version": "1.2-final",
+      "runtime": "ChatGPT/Codex interactive conversation",
+      "method": "Prompt packet read in this conversation, then a fresh model response serialized as JSON; no separate API invocation.",
+      "prompt_file": "work/promethean_agent_contrast_1_prompt.txt",
+      "prompt_sha256": "9e1475c696b5a1e5bdcf07de00e6db624f9271cabc38e8e0ffe2163a6bc63072",
+      "response_file": "agents/promethean_agent/responses/contrast_1_response.json",
+      "response_sha256": "a20479079adc379aa34ff41017fffee9a581d329bb29f364e06509efc6a2426f",
+      "recorded_at_utc": "2026-10-22T18:35:27.671569+00:00"
+    },
+    {
+      "case": "contrast_2",
+      "agent_version": "1.2-final",
+      "runtime": "ChatGPT/Codex interactive conversation",
+      "method": "Prompt packet read in this conversation, then a fresh model response serialized as JSON; no separate API invocation.",
+      "prompt_file": "work/promethean_agent_contrast_2_prompt.txt",
+      "prompt_sha256": "fec245d1e7d62889ded5dd3891d4619a65f9043cbee4135b782f7deb748791a6",
+      "response_file": "agents/promethean_agent/responses/contrast_2_response.json",
+      "response_sha256": "3a10b945e523c9d16c6e3d0ff6da31c69a74b72b2e54247237785f4ce2952d5e",
+      "recorded_at_utc": "2026-10-22T18:35:27.671770+00:00"
+    }
+  ],
+  "scope": "Three case executions in one conversational model session, not isolated sessions or a repeatability benchmark. No fabricated API IDs or external run claims."
+}

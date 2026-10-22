@@ -1,0 +1,61 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Technology significance and bounded application implications",
+    "version": "1.1-candidate"
+  },
+  "analytical_question": "Should the hotel run a small caption pilot, and does executive enthusiasm justify calling this application civilization-changing?",
+  "general_et_finding": "Prospective mode. Unit: deployed general-purpose generative AI language-model systems, not all AI, a single model component, or one vendor. Classification: Potential Promethean, qualified; moderate confidence in the candidate label and low confidence in eventual civilization-scale confirmation. Demonstrated significance is at least breakthrough; permanent cross-tier transformation is unproven. Barrier statement: before these systems, open-ended language drafting and interactive explanations generally required a person to formulate each new response; this was treated as part of cognitive work. Earlier automation already existed, so this is not a claim that AI invented automated text. Generating new responses without a person composing each one suggests partial removal of that constraint, while verification and accountability still require people. Suppression test: removal of this technology class would restore substantial human drafting and explanation work; the checked sources do not establish collapse of essential systems. Full dissolution is not confirmed. The Potential label follows Chapter 11's prospective treatment, explicitly as a hypothesis rather than a passed strict retrospective gate. Tiers: workplace production provides economic evidence; educational tutoring provides cognitive/social evidence. Different occupations alone are not different tiers. Biological survival dissolution is not established. Six criteria are diagnostic, not a passed gate or additive score: (1) order-of-magnitude: not demonstrated by the checked sources; no common baseline establishes 10x; (2) widespread impact: partial, with evidence in work and education but not society-wide dissolution; (3) paradigm shift: partial, because response generation can be separated from human composition, while responsibility remains human; (4) catalytic effect: partial, illustrated by a purpose-built tutor but not proof of a dependent innovation wave; (5) democratizing effect: partial, because access to assistance may broaden but affordability, language and digital access remain unmeasured; (6) irreversibility: unresolved, with no demonstrated durable cross-tier infrastructure dependence. Strict full Promethean confirmation must be withheld.",
+  "application_finding": "For event captions, expected significance is incremental: producing more wording options within an existing marketing process. Human approval and manual drafting remain practical. Neither the owner's enthusiasm nor this narrow workflow establishes civilizational dissolution.",
+  "organization_specific_finding": "The hypothetical hotel has a small budget, short reviewable outputs and an existing manual fallback. A small reversible trial fits these constraints. Aggressive posture may accelerate a pilot but cannot upgrade the general classification or remove approval.",
+  "evidence": [
+    {
+      "claim": "Chapter 11 offers a system/barrier/suppression framework, six criteria, and a prospective Potential Promethean ceiling for generative AI.",
+      "source_or_reference": "Fortino, Chapter 11, Identifying Promethean Technologies, August 2026 draft Rev 0.1, sections 11.2 and 11.7, pp. 3-4 and 8-11; supplied course PDF.",
+      "date_or_recency": "August 2026; read 2026-10-22",
+      "evidence_type": "Course framework and interpretation",
+      "notes": "Conceptual classification, not independent empirical proof. The draft leaves tension between the strict suppression gate and prospective AI example."
+    },
+    {
+      "claim": "A randomized writing experiment found lower task time and higher rated quality with ChatGPT.",
+      "source_or_reference": "https://www.science.org/doi/10.1126/science.adh2586",
+      "date_or_recency": "Noy and Zhang, 2023; abstract retrieved 2026-10-22",
+      "evidence_type": "Original randomized experiment abstract",
+      "notes": "Primary publisher abstract was searchable; full-page opening failed. Evidence supports bounded writing assistance, not bank ROI or civilization-scale 10x gains."
+    },
+    {
+      "claim": "A 2023 consulting experiment found benefits on selected tasks and worse correctness on an outside-frontier task.",
+      "source_or_reference": "https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf",
+      "date_or_recency": "Dell'Acqua et al., 2023 working paper, abstract p. 2; read 2026-10-22",
+      "evidence_type": "Original experimental working paper",
+      "notes": "Supports both opportunity and task-dependent limits; old GPT-4 results do not measure every 2026 system or autonomous financial advice."
+    },
+    {
+      "claim": "A custom AI-tutoring randomized trial reported greater learning in less time in its tested setting.",
+      "source_or_reference": "https://serl.fas.harvard.edu/publication/ai-tutoring-outperforms-class-active-learning-rct-introducing-novel-research-based",
+      "date_or_recency": "Kestin et al., 2025; author-lab abstract read 2026-10-22",
+      "evidence_type": "Original study abstract on author institution site",
+      "notes": "Adds cognitive/educational evidence beyond workplace production. Does not prove all tutors work, equitable access, or irreversible education dependence."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "The checked studies show bounded outcomes, not society-wide 10x improvement or irreversible dependence.",
+    "Task-dependent errors and continued human review challenge the strongest barrier-dissolution claim.",
+    "A tutoring deployment supports a second tier hypothesis; it does not establish education-wide transformation.",
+    "Organizational capabilities and controls are scenario assumptions; no actual bank or hotel was tested."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in a qualified Potential Promethean hypothesis under Chapter 11; low confidence in eventual confirmation. Local net benefits, current model performance and control effectiveness are unmeasured. The older studies establish historical evidence only. No exhaustive state-of-the-art claim is made.",
+  "value_opportunity_implication": "Potentially increase caption options and reduce drafting effort, conditional on editing time.",
+  "risk_governance_implication": "Manager verifies all public claims; avoid guest data and preserve manual fallback.",
+  "recommendation_management_implication": "Run a four-week, low-budget draft-only pilot with manager approval before every publication. Check package facts, prices, promises and total editing time. Proposed gate: continue only if reviewed quality is maintained and staff save net time; retain manual drafting. Do not commit to full adoption on the owner's requested Promethean label.",
+  "change_monitoring_triggers": [
+    "Reassess broad classification if independently replicated evidence shows roughly 10x improvement on a defined dimension and genuine multi-tier barrier removal.",
+    "Reassess on durable cross-tier infrastructure dependence, or evidence that fallback remains straightforward and effects plateau.",
+    "Reassess the local decision when matched-task results, control readiness, incident history or review costs change; revisit broad significance annually."
+  ],
+  "abstention_or_more_information_needed": [
+    "Withhold Confirmed Promethean: long-run irreversibility and strict suppression evidence are missing.",
+    "Do not certify safe autonomous use, financial suitability, compliance, or realized ROI.",
+    "Confirm the hypothetical organization's actual capabilities and obtain local task-specific results before scaling."
+  ]
+}
