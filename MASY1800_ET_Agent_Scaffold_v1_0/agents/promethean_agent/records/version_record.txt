@@ -1,0 +1,6 @@
+Repository: https://github.com/ariana05-glitch/Emerging-Technology-Assignment-4-Promethean-Agent
+Branch: assignment-4-promethean
+Agent source commit: 887d323aa60e76cc0d800fef00317e4d0b69dbf4
+Source commit URL: https://github.com/ariana05-glitch/Emerging-Technology-Assignment-4-Promethean-Agent/commit/887d323aa60e76cc0d800fef00317e4d0b69dbf4
+The source commit freezes the specialist instructions, cases, prompt packets, responses and verification evidence. Completed records and Word documents are added in a subsequent documentation commit on the same branch.
+No prior repository history was rewritten.
