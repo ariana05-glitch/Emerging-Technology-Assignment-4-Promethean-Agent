@@ -1,17 +1,13 @@
-/workspace/scratch/53cc334468cf/final_build/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_agent_primary_prompt.txt
+primary: VALIDATION PASSED
 
-VALIDATION PASSED
+contrast_1: VALIDATION PASSED
 
-/workspace/scratch/53cc334468cf/final_build/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_agent_contrast_1_prompt.txt
-
-VALIDATION PASSED
-
-/workspace/scratch/53cc334468cf/final_build/MASY1800_ET_Agent_Scaffold_v1_0/work/promethean_agent_contrast_2_prompt.txt
-
-VALIDATION PASSED
+contrast_2: VALIDATION PASSED
 
 FROZEN CORE INTACT
 
-Recursive schema-keyword checks (type, required, properties, items, additionalProperties): PASS for 3 inputs and 3 outputs. These cover all constraints used by the supplied schemas.
-Stable general finding and distinct local recommendations: PASS.
-Observed v1.1 output weakness retained; no fictional failure or independent benchmark claimed.
+All original scaffold files byte-identical to supplied ZIP.
+All input/output schema constraints checked recursively, including additionalProperties.
+
+Semantic review checks: stable broad label; different actions; model-specific route distinction; integration gate; full-workflow metric: PASS.
+This is not proof of accuracy or deployment safety.

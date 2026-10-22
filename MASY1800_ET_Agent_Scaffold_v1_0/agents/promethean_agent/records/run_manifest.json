@@ -1,38 +1,37 @@
 {
+  "runtime": "ChatGPT/Codex interactive conversation, no API call",
+  "method": "Each full packet was read, then freshly answered and serialized as JSON; shared evidence context was held fixed.",
+  "date": "2026-10-22",
   "runs": [
     {
       "case": "primary",
-      "agent_version": "1.2-final",
-      "runtime": "ChatGPT/Codex interactive conversation",
-      "method": "Prompt packet read in this conversation, then a fresh model response serialized as JSON; no separate API invocation.",
-      "prompt_file": "work/promethean_agent_primary_prompt.txt",
-      "prompt_sha256": "639d5d3aef06e936e42077258f768543ed8c139b8716029ca33e959240876a48",
-      "response_file": "agents/promethean_agent/responses/primary_response.json",
-      "response_sha256": "545afdb5f0d215d24e378daa2d1423eb32df88dc0adc01f742265ea72a27a4f5",
-      "recorded_at_utc": "2026-10-22T18:35:27.671386+00:00"
+      "version": "2.1-final",
+      "prompt": "work/promethean_agent_primary_prompt.txt",
+      "prompt_sha256": "faadc3b920d3e274fae184feeed3c32db54d85e4e1161628ce325485473a22df",
+      "response": "agents/promethean_agent/responses/primary_response.json",
+      "response_sha256": "5b0532da5008737c4817d8705166fbd0ba21a1190a50b314cb134a375d4225c6"
     },
     {
       "case": "contrast_1",
-      "agent_version": "1.2-final",
-      "runtime": "ChatGPT/Codex interactive conversation",
-      "method": "Prompt packet read in this conversation, then a fresh model response serialized as JSON; no separate API invocation.",
-      "prompt_file": "work/promethean_agent_contrast_1_prompt.txt",
-      "prompt_sha256": "9e1475c696b5a1e5bdcf07de00e6db624f9271cabc38e8e0ffe2163a6bc63072",
-      "response_file": "agents/promethean_agent/responses/contrast_1_response.json",
-      "response_sha256": "a20479079adc379aa34ff41017fffee9a581d329bb29f364e06509efc6a2426f",
-      "recorded_at_utc": "2026-10-22T18:35:27.671569+00:00"
+      "version": "2.1-final",
+      "prompt": "work/promethean_agent_contrast_1_prompt.txt",
+      "prompt_sha256": "8cf16f0c0ba8e3e3a5cf6e77d29784de362e1d958a31a87b5696cacf6612682b",
+      "response": "agents/promethean_agent/responses/contrast_1_response.json",
+      "response_sha256": "37e8b4a465e64033f4343b8e37a17b1191dc4b61c20f07d6b538945a8385426c"
     },
     {
       "case": "contrast_2",
-      "agent_version": "1.2-final",
-      "runtime": "ChatGPT/Codex interactive conversation",
-      "method": "Prompt packet read in this conversation, then a fresh model response serialized as JSON; no separate API invocation.",
-      "prompt_file": "work/promethean_agent_contrast_2_prompt.txt",
-      "prompt_sha256": "fec245d1e7d62889ded5dd3891d4619a65f9043cbee4135b782f7deb748791a6",
-      "response_file": "agents/promethean_agent/responses/contrast_2_response.json",
-      "response_sha256": "3a10b945e523c9d16c6e3d0ff6da31c69a74b72b2e54247237785f4ce2952d5e",
-      "recorded_at_utc": "2026-10-22T18:35:27.671770+00:00"
+      "version": "2.1-final",
+      "prompt": "work/promethean_agent_contrast_2_prompt.txt",
+      "prompt_sha256": "ff53464c1462812dce19505b98df38a8bdd4c7b720b895b8559ce20e0acf1eb5",
+      "response": "agents/promethean_agent/responses/contrast_2_response.json",
+      "response_sha256": "e6607befb1856a4f6f706fd2033d5e68579fe2371d2bf1665db68ee47cbfdace"
     }
   ],
-  "scope": "Three case executions in one conversational model session, not isolated sessions or a repeatability benchmark. No fabricated API IDs or external run claims."
+  "development": {
+    "prompt": "agents/promethean_agent/records/development/primary_v20_prompt.txt",
+    "response": "agents/promethean_agent/records/development/primary_v20_response.json",
+    "response_sha256": "719b8e58a916f5dcd0cb39e9d406c17a7bb8b495ad1e83d8c8fbc0a175e3a635"
+  },
+  "limits": "One conversational session; no isolated-session replication, production deployment or measured venue ROI."
 }

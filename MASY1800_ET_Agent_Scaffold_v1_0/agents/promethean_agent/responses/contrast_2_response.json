@@ -1,20 +1,67 @@
 {
-  "agent": {"name": "Promethean Technology Classification Agent", "specialty": "Technology significance and bounded application implications", "version": "1.2-final"},
-  "analytical_question": "Should the hypothetical hotel trial generative-AI captions, and does its owner's enthusiasm justify a Confirmed Promethean label or immediate full adoption?",
-  "general_et_finding": "Prospective mode: Potential Promethean, qualified. The hotel owner's requested Confirmed label is unsupported stakeholder pressure, not evidence. Evaluate the deployed general-purpose language-generation system rather than the narrow caption feature. Barrier statement: flexible drafting and interactive explanation previously generally required fresh human formulation; these systems can generate responses without a person composing each one. Earlier automation and continued human review qualify that mechanism. E2-E4 support breakthrough capability and a credible partial barrier-removal pathway across economic production and cognitive/social learning. They do not establish that removal of the technology class would collapse mature essential systems; manual fallback could restore the constrained workflow. E1 permits a prospective candidate while retrospective dissolution remains unconfirmed. Six diagnostic ratings: order-of-magnitude NOT DEMONSTRATED (E2-E3 do not supply a defined 10x baseline); widespread impact PARTIAL (work in E2-E3 and learning in E4, rather than multiple occupations counted as separate tiers); paradigm shift PARTIAL (an inference about response composition from E2-E4, not proof that human accountability disappears); catalytic effect PARTIAL (the custom tutor in E4 is a secondary application, not a demonstrated economy-wide wave); democratizing effect NOT ESTABLISHED (no direct evidence identifies expanded access across groups); irreversibility UNRESOLVED (durable cross-tier dependence is not demonstrated). No summed score or marketing claim can replace the barrier and suppression tests. Confirmed Promethean is withheld.",
-  "application_finding": "Hotel captions are an incremental marketing-workflow improvement. Generating more wording options changes drafting effort, while package design, factual accuracy and publication authority remain with staff. The application is not civilization-changing merely because the underlying technology is a Potential Promethean candidate.",
-  "organization_specific_finding": "The aggressive hotel team has a small budget, short reviewable drafts and manual fallback as scenario assumptions. Those conditions favor a modest, reversible trial. Prices and promises can still mislead guests, so review before publication matters. Aggressive posture changes trial timing, not the broad classification or evidence standard.",
-  "evidence": [
-    {"claim": "E1 requires classification evidence rather than executive enthusiasm.", "source_or_reference": "Fortino, Chapter 11, August 2026 draft Rev 0.1, sections 11.2 and 11.7, pp. 3-4 and 8-11; supplied PDF.", "date_or_recency": "August 2026; read 2026-10-22", "evidence_type": "Course framework", "notes": "Prospective ceiling remains Potential, not Confirmed."},
-    {"claim": "E2 supports investigating writing assistance.", "source_or_reference": "https://www.science.org/doi/10.1126/science.adh2586", "date_or_recency": "Noy and Zhang, 2023; abstract retrieved 2026-10-22", "evidence_type": "Original publisher abstract", "notes": "Full-page opening blocked. It does not measure this hotel's outcomes."},
-    {"claim": "E3 shows that usefulness depends on the task.", "source_or_reference": "https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf", "date_or_recency": "Dell'Acqua et al., 2023; read 2026-10-22", "evidence_type": "Original experimental working paper", "notes": "Supports local evaluation; not proof of a hotel marketing lift."},
-    {"claim": "E4 provides a second-domain capability observation.", "source_or_reference": "https://serl.fas.harvard.edu/publication/ai-tutoring-outperforms-class-active-learning-rct-introducing-novel-research-based", "date_or_recency": "Kestin et al., 2025; author-lab abstract read 2026-10-22", "evidence_type": "Original author-institution abstract", "notes": "Publisher access failed. Educational outcomes do not prove widespread access or permanence."}
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Technology significance and bounded application implications",
+    "version": "2.1-final"
+  },
+  "analytical_question": "Should this small restaurant buy the proposed robot, and should owner enthusiasm alter the significance classification?",
+  "general_et_finding": "Prospective classification: Breakthrough, with moderate confidence, for the integrated indoor autonomous-delivery system compared with manual carrying or a pushed cart. E2-E3 report the bounded ability to perform transport routes without a person accompanying each trip. The candidate barrier is human escort in a conventional carrying workflow, not the physical need to move goods through space. Earlier automation prevents claiming this was a universal historical constraint. Continued route and handoff requirements in E4 and geometry considerations in E5 support constraint reduction, not categorical dissolution. If this robot class disappeared, people and carts could plausibly restore delivery; no cross-tier infrastructure collapse is established. This suppression result is inference. Restaurant and hotel uses remain chiefly economic activity, not two dissolved tiers. The owner's popularity claim supplies no relevant evidence and does not support Potential Promethean under E1. The dissolution gate fails, so six-criterion scoring is NOT REACHED. Evidence gaps remain for defined 10x improvement, widespread cross-tier impact, civilizational paradigm shift, dependent innovation waves, democratized access and irreversible societal dependence. A poor fit for this restaurant does not downgrade the same system-level capability evidence.",
+  "application_finding": "Kitchen-to-table carrying remains an incremental workflow improvement if it can be fitted to the site. It does not remove staff loading, handoff, guest assistance or exception handling. No evidence supports treating the restaurant application as civilization-changing.",
+  "organization_specific_finding": "The organization is conservative/risk-averse despite an enthusiastic owner. Its 55 cm bottleneck and peak-time chair intrusion are hypothetical input conditions. E2 lists 65 cm clearance for the proposed BellaBot Pro, so the current route does not meet that model's published requirement. That does not prove every smaller robot is unsuitable forever. Limited budget and lack of an attendant further weaken the immediate purchase case.",
+  "contrary_evidence_or_limitations": [
+    "The published clearance is a model-specific supplier specification, not a universal class-wide number or a full safety assessment.",
+    "Neither a smaller alternative nor a layout change has been assessed.",
+    "No local workload, cost, completion or intervention results exist, and supplier claims do not establish payback."
   ],
-  "contrary_evidence_or_limitations": ["No actual hotel productivity, conversion or staff-cost results exist in the intake.", "Short-term task performance does not establish irreversible societal change.", "The owner's requested classification and immediate adoption have no evidentiary weight."],
-  "confidence_and_uncertainty": "Moderate confidence in the qualified technology-level candidate label and in treating captions as a narrow workflow improvement. Actual savings are unknown. Organization conditions are hypothetical, and the checked older studies do not benchmark every 2026 system. No evidence establishes democratization across relevant groups.",
-  "value_opportunity_implication": "Potentially provide useful caption alternatives with less staff effort after editing. A small trial can test that opportunity without requiring belief in inevitable civilization-scale change.",
-  "risk_governance_implication": "A manager checks every price, package condition and promise against approved details before publication. Avoid guest data and retain manual drafting. A low-consequence draft process still requires factual review.",
-  "recommendation_management_implication": "Reject the owner's instruction to call captions Confirmed Promethean or adopt immediately at full scale. Run a four-week draft-only trial if review capacity is confirmed. Proposed evaluation: compare 20 matched caption briefs with manual drafting, tracking total drafting plus editing minutes, factual corrections per caption and manager acceptance. Proposed continuation gate: lower total staff time with no worse reviewed factual quality than manual captions and zero uncorrected package claims published. Pause on a misleading published claim. These are proposed management gates; no conversion improvement or validated statistical threshold is claimed.",
-  "change_monitoring_triggers": ["Adjust the local trial on measured staff time, correction frequency, review capacity and any misleading public claim.", "Revisit the broad label on independent 10x evidence and durable multi-tier dependence, or strong evidence of narrow reversible effects.", "Review the general classification annually over three years; enthusiasm alone is not a trigger to upgrade."],
-  "abstention_or_more_information_needed": ["Withhold Confirmed Promethean and any claim of guaranteed marketing ROI.", "Confirm approved package facts and manager review capacity before publishing.", "Require local results before expanding beyond draft assistance."]
+  "confidence_and_uncertainty": "Moderate confidence in the same bounded Breakthrough classification; strong conditional reason to defer this specific model/route proposal given the stated 55 cm assumption and E2 specification. Actual measurements, turning and pedestrian access require site confirmation. No claim is made that the whole robot class fails in every small restaurant.",
+  "value_opportunity_implication": "Possible walking savings could be outweighed by obstruction, supervision, rescue work or lost seating. A sound purchasing decision requires whole-workflow and total-cost evidence rather than novelty.",
+  "risk_governance_implication": "The owner should keep manual delivery and obtain a model-specific assessment with the installation technician. Do not trial the proposed model through the bottleneck simply to collect performance data. Preserve pedestrian access and staff service responsibility.",
+  "recommendation_management_implication": "Defer purchase of the proposed BellaBot Pro for the current route. First confirm the narrowest usable width, turning space and peak-time access, then compare an approved layout change or a different model using its own specifications and full cost. The owner owns the assessment. If a suitable configuration is established, a later controlled trial should compare the same meal runs against manual delivery, logging total staff minutes including loading, handoff, supervision and rescue; completed and failed runs; interventions; service time; and access conflicts. Proposed purchase gate: acceptable route and support arrangements, lower total staff effort, no worse service than manual delivery, and affordable total cost without unresolved safety/access issues. A blocked essential route or hazardous incident stops any trial. These are proposed decision controls, not achieved outcomes or universal thresholds. Reject the owner's instruction to upgrade the classification and approve immediately.",
+  "change_monitoring_triggers": [
+    "Revisit this proposal after verified layout changes, an appropriately specified alternative model, staffing support or cost evidence changes.",
+    "Reconsider broad significance on credible multi-tier categorical dissolution and durable dependency, not sales popularity or owner enthusiasm.",
+    "Review the general technology finding annually over three years."
+  ],
+  "abstention_or_more_information_needed": [
+    "Confirm the actual route and model before any live test or purchase.",
+    "Withhold a class-wide impossibility claim, safety certification, staffing-replacement forecast and quantified ROI.",
+    "Potential and Confirmed Promethean are not supported by the present evidence."
+  ],
+  "evidence": [
+    {
+      "claim": "E1: Chapter 11 distinguishes constraint reduction from categorical dissolution and requires the system, suppression and tier tests.",
+      "source_or_reference": "Fortino, Chapter 11, Identifying Promethean Technologies, August 2026 draft Rev 0.1, sections 11.2 and 11.7, pp. 3-4 and 8-11; supplied course PDF.",
+      "date_or_recency": "August 2026 draft; read 2026-10-22",
+      "evidence_type": "Course framework",
+      "notes": "Conceptual lens, not empirical performance evidence."
+    },
+    {
+      "claim": "E2: PUDU describes BellaBot Pro delivery modes, obstacle sensing and a 65 cm path-clearance specification.",
+      "source_or_reference": "https://www.pudurobotics.com/en/products/bellabotpro",
+      "date_or_recency": "Undated live product page; accessed 2026-10-22",
+      "evidence_type": "Manufacturer product specification",
+      "notes": "Supplier claim, not independent safety or ROI evidence. The page labels dish recognition and broadcast as under development; do not treat that feature as deployed."
+    },
+    {
+      "claim": "E3: PUDU reports a FlashBot elevator-integration test with Nippon Otis.",
+      "source_or_reference": "https://www.pudurobotics.com/about/news/652128195da24800447b01c3",
+      "date_or_recency": "2023-09-22; accessed 2026-10-22",
+      "evidence_type": "Manufacturer report of integration testing",
+      "notes": "Historical supplier report, not proof of compatibility with an arbitrary hotel elevator or independent long-run service performance."
+    },
+    {
+      "claim": "E4: The Servi Plus manual requires operating-space checks, mapping, human handoff and monitoring during peak periods.",
+      "source_or_reference": "https://www.bearrobotics.ai/s/Servi-Plus_User-Manual_EN.pdf",
+      "date_or_recency": "Version 1.1.1; copyright 2023; accessed 2026-10-22",
+      "evidence_type": "Manufacturer operating manual",
+      "notes": "Read safety and use sections, printed pp. 6, 10, 16 and 19. Model-specific limits do not transfer automatically to PUDU products; supports a bounded example of continuing human responsibilities."
+    },
+    {
+      "claim": "E5: Nav2 documentation explains how robot footprint and local navigation configuration affect passage through space.",
+      "source_or_reference": "https://docs.nav2.org/rolling/configuration_and_development/tuning_guide/",
+      "date_or_recency": "Live maintainer documentation; accessed 2026-10-22",
+      "evidence_type": "Original software-maintainer documentation",
+      "notes": "General technical illustration, not proof that either named robot uses Nav2 or is safe in a specific venue."
+    }
+  ]
 }

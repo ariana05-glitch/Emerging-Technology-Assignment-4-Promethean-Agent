@@ -1,0 +1,42 @@
+[
+  {
+    "id": "E1",
+    "claim": "Chapter 11 distinguishes constraint reduction from categorical dissolution and requires the system, suppression and tier tests.",
+    "url": "Fortino, Chapter 11, Identifying Promethean Technologies, August 2026 draft Rev 0.1, sections 11.2 and 11.7, pp. 3-4 and 8-11; supplied course PDF.",
+    "date": "August 2026 draft; read 2026-10-22",
+    "type": "Course framework",
+    "limit": "Conceptual lens, not empirical performance evidence."
+  },
+  {
+    "id": "E2",
+    "claim": "PUDU describes BellaBot Pro delivery modes, obstacle sensing and a 65 cm path-clearance specification.",
+    "url": "https://www.pudurobotics.com/en/products/bellabotpro",
+    "date": "Undated live product page; accessed 2026-10-22",
+    "type": "Manufacturer product specification",
+    "limit": "Supplier claim, not independent safety or ROI evidence. The page labels dish recognition and broadcast as under development; do not treat that feature as deployed."
+  },
+  {
+    "id": "E3",
+    "claim": "PUDU reports a FlashBot elevator-integration test with Nippon Otis.",
+    "url": "https://www.pudurobotics.com/about/news/652128195da24800447b01c3",
+    "date": "2023-09-22; accessed 2026-10-22",
+    "type": "Manufacturer report of integration testing",
+    "limit": "Historical supplier report, not proof of compatibility with an arbitrary hotel elevator or independent long-run service performance."
+  },
+  {
+    "id": "E4",
+    "claim": "The Servi Plus manual requires operating-space checks, mapping, human handoff and monitoring during peak periods.",
+    "url": "https://www.bearrobotics.ai/s/Servi-Plus_User-Manual_EN.pdf",
+    "date": "Version 1.1.1; copyright 2023; accessed 2026-10-22",
+    "type": "Manufacturer operating manual",
+    "limit": "Read safety and use sections, printed pp. 6, 10, 16 and 19. Model-specific limits do not transfer automatically to PUDU products; supports a bounded example of continuing human responsibilities."
+  },
+  {
+    "id": "E5",
+    "claim": "Nav2 documentation explains how robot footprint and local navigation configuration affect passage through space.",
+    "url": "https://docs.nav2.org/rolling/configuration_and_development/tuning_guide/",
+    "date": "Live maintainer documentation; accessed 2026-10-22",
+    "type": "Original software-maintainer documentation",
+    "limit": "General technical illustration, not proof that either named robot uses Nav2 or is safe in a specific venue."
+  }
+]

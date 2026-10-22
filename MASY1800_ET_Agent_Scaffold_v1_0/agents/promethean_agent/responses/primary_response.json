@@ -1,20 +1,67 @@
 {
-  "agent": {"name": "Promethean Technology Classification Agent", "specialty": "Technology significance and bounded application implications", "version": "1.2-final"},
-  "analytical_question": "Is deployed generative AI incremental, breakthrough, or Potential Promethean, and should that broader significance justify the hypothetical bank's research-summary pilot?",
-  "general_et_finding": "Prospective classification: Potential Promethean, qualified; breakthrough capability is demonstrated, while civilizational permanence is unconfirmed. Unit: usable general-purpose language-generation systems, not an isolated component or all AI. Barrier statement: before these systems, flexible drafting and interactive explanations generally required a person to formulate each response; human composition was treated as part of cognitive work. Earlier text automation existed, so this concerns flexible generation rather than the invention of automation. E2-E4 support partial removal of human composition; verification and accountability remain human responsibilities. Suppression of the technology class would restore manual work, but the sources do not establish collapse of essential infrastructure. Economic production and cognitive/social learning are two possible tiers; multiple workplace occupations alone would not count as two tiers. E1 supports a prospective candidate, not a passed retrospective dissolution gate. Six diagnostic ratings: order-of-magnitude NOT DEMONSTRATED, because E2-E3 do not establish a defined 10x baseline; widespread impact PARTIAL, because E2-E4 cover work and learning but not civilization-wide dissolution; paradigm shift PARTIAL, an inference from E2-E4 that generation can be separated from human composition; catalytic effect PARTIAL, because E4 documents a secondary tutoring application but not a dependent economy-wide wave; democratizing effect NOT ESTABLISHED, because direct evidence of expanded access across groups is missing; irreversibility UNRESOLVED, because durable cross-tier dependence and suppression evidence are missing. These ratings are qualitative diagnostics, not an additive score. Confirmed Promethean is withheld.",
-  "application_finding": "Internal summaries represent incremental improvement to an existing workflow. Analysts still select sources, check figures and own conclusions. This application does not inherit the technology's possible civilization-scale significance. Net time savings remain a local hypothesis.",
-  "organization_specific_finding": "The moderate/fast-follower bank's approved workspace and trained reviewers are scenario assumptions. If confirmed, they support learning through a bounded public-document pilot. Consequential research errors justify analyst sign-off and manual fallback.",
-  "evidence": [
-    {"claim": "E1 supplies the course instrument and prospective AI example.", "source_or_reference": "Fortino, Chapter 11, August 2026 draft Rev 0.1, sections 11.2 and 11.7, pp. 3-4 and 8-11; supplied PDF.", "date_or_recency": "August 2026; read 2026-10-22", "evidence_type": "Course framework", "notes": "Conceptual lens, not independent proof of dissolution."},
-    {"claim": "E2 reports experimental writing-assistance benefits.", "source_or_reference": "https://www.science.org/doi/10.1126/science.adh2586", "date_or_recency": "Noy and Zhang, 2023; abstract retrieved 2026-10-22", "evidence_type": "Original publisher abstract", "notes": "Full-page opening blocked. No bank-specific or 10x result inferred."},
-    {"claim": "E3 reports task-dependent gains and an outside-frontier correctness penalty.", "source_or_reference": "https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf", "date_or_recency": "Dell'Acqua et al., 2023; read 2026-10-22", "evidence_type": "Original experimental working paper", "notes": "Historical model experiment, not every current model's benchmark."},
-    {"claim": "E4 reports a learning benefit from a custom tutor in its tested setting.", "source_or_reference": "https://serl.fas.harvard.edu/publication/ai-tutoring-outperforms-class-active-learning-rct-introducing-novel-research-based", "date_or_recency": "Kestin et al., 2025; author-lab abstract read 2026-10-22", "evidence_type": "Original author-institution abstract", "notes": "Publisher access failed; population-wide access and dependence were not established."}
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Technology significance and bounded application implications",
+    "version": "2.1-final"
+  },
+  "analytical_question": "How significant are indoor autonomous delivery robots, and should the hypothetical large restaurant authorize a controlled meal-delivery pilot?",
+  "general_et_finding": "Prospective classification: Breakthrough, with moderate confidence, relative to manual carrying or pushing a cart. The unit is a complete indoor wheeled navigation-and-delivery system, not a sensor, a new cosmetic model feature, or all robotics. E2-E3 report a meaningful capability: completing bounded transport routes without a human escorting every trip. This is a course-based interpretation of supplier capability evidence, not measured 10x productivity. Candidate barrier: in a conventional table-running workflow, a person accompanies the carried meal. That workflow constraint is reduced; it is not a universal historical barrier, because automated transport already existed. Physical distance, route suitability and handoff responsibilities remain. Suppressing this robot class would plausibly restore human carrying and carts, not cause established cross-tier infrastructure collapse; this is a reasoned counterfactual, not an observed shutdown. Restaurant and hotel delivery mainly concern the economic tier. No categorical dissolution across biological survival and cognitive/social life is established. E1 therefore does not support Potential Promethean. The dissolution gate fails, so six-criterion scoring is NOT REACHED. Diagnostic gaps are: defined 10x gain, broad cross-tier impact, civilizational paradigm shift, dependent innovation wave, expanded access across groups, and irreversible dependence. The bounded autonomous task is more than a faster manual cart, while the local use can still be an incremental workflow improvement.",
+  "application_finding": "Kitchen-to-table transport is an incremental restaurant workflow improvement. A robot can carry a batch toward a handoff point, while staff load food, complete service, handle exceptions and support diners. Reduced walking is not evidence that a whole server role disappears.",
+  "organization_specific_finding": "The large restaurant is a moderate/fast-follower. Flat dry flooring, an approximately 1.2 m route before crowding, charging space and a trained supervisor are hypothetical assumptions. They support a vendor route assessment and bounded trial, not a finding that the venue is already safe or profitable. E2's clearance specification is not a crowd-flow or turning assessment.",
+  "contrary_evidence_or_limitations": [
+    "E4 documents continued human oversight and physical operating limits for another model; these are counterevidence to unrestricted autonomy, not universal numerical rules.",
+    "Most capability evidence is supplier-authored, with no independent site benchmark or local cost outcome.",
+    "Physical transport and manual fallback remain; multiple hospitality settings do not establish multiple dissolved tiers."
   ],
-  "contrary_evidence_or_limitations": ["Task-dependent errors and continued review challenge complete barrier dissolution.", "General 10x improvement, equitable access and permanent multi-tier dependence are not demonstrated.", "No actual bank deployment or ROI measurement was performed."],
-  "confidence_and_uncertainty": "Moderate confidence in a prospective candidate under E1; low confidence in eventual confirmation. The bank's controls are assumed and local accuracy and net benefit are unknown. The course's emerging-AI example is treated as a hypothesis while its strict retrospective suppression standard remains unmet.",
-  "value_opportunity_implication": "Potentially reduce drafting effort after review costs, while preserving source traceability. Broad significance raises monitoring priority rather than authorizing an untested large commitment.",
-  "risk_governance_implication": "Use public inputs, restrict workspace access, link consequential claims to sources and require named analyst approval. Exclude client delivery and trading. These are proposed controls, not verified capabilities or legal certification.",
-  "recommendation_management_implication": "Authorize an eight-week pilot only after confirming the assumed controls. Proposed evaluation: compare assisted and manual summaries across 30 matched public-document tasks with balanced reviewer assignment and separate factual checking. Measure total staff minutes including review, consequential unsupported claims per summary, and corrections before approval. Proposed scale gate: positive net time savings, no worse reviewed factual quality than the manual baseline, and zero unresolved consequential errors in circulated summaries. A data incident or uncorrected consequential error pauses circulation. The sample and gates are management proposals, not validated statistical or regulatory thresholds.",
-  "change_monitoring_triggers": ["Reassess on independent defined 10x evidence, durable cross-tier dependence, or evidence that benefits remain narrow and reversible.", "Reassess pilot scope when measured time, factual quality, reviewer burden or controls change.", "Review broader significance annually over three years."],
-  "abstention_or_more_information_needed": ["Withhold Confirmed Promethean without durable suppression-test evidence.", "Do not certify safe autonomous advice, compliance or realized ROI.", "Confirm actual reviewer capacity and workspace controls before starting; obtain local outcomes before scaling."]
+  "confidence_and_uncertainty": "Moderate confidence in Breakthrough as a bounded system-level capability change relative to manual carrying. Local net value and operational suitability are unknown. A minor improvement to an existing delivery robot could instead be incremental; this finding concerns the complete autonomous-delivery capability, not every product revision.",
+  "value_opportunity_implication": "Potentially reduce repetitive walking and free attention for service, only if loading, unloading, supervision and interventions do not absorb the saved time. No headcount reduction or payback is established.",
+  "risk_governance_implication": "Keep a trained shift supervisor accountable for operation, vendor-approved routes and configuration, controlled handoff, incident logging and manual fallback. Check pedestrian access and hot-item handling before live use; this specialist does not certify safety.",
+  "recommendation_management_implication": "First complete a vendor and venue route assessment. If acceptable, run a four-week controlled pilot without reducing staffing. Proposed evaluation: compare robot-assisted and manual delivery on 30 matched meal runs across comparable service periods. Record total human minutes per completed run, including loading, handoff, monitoring and rescue; end-to-end completion time; failed runs; interventions; spills; and access conflicts. The shift supervisor owns the log. Proposed expansion gate: lower total human effort with service time no worse than the manual baseline and no unresolved safety or access problem. Pause on a collision, spill with injury risk, blocked essential access, or recurring unhandled route failure; return to manual delivery. These are proposed management gates, not validated statistical thresholds or observed results.",
+  "change_monitoring_triggers": [
+    "Reassess pilot scope on measured total effort, delivery completion, interventions, service time, cost and incidents.",
+    "Reconsider the broad classification only on evidence of categorical barrier dissolution across multiple tiers and durable infrastructure dependence; publicity alone does not qualify.",
+    "Review broad significance annually over three years and refresh product-specific evidence before procurement."
+  ],
+  "abstention_or_more_information_needed": [
+    "Obtain actual route, turning, crowding and handoff assessment before live use.",
+    "Withhold a safe-deployment guarantee, quantified ROI and a staffing-replacement claim without local evidence.",
+    "Withhold Potential or Confirmed Promethean on the supplied evidence."
+  ],
+  "evidence": [
+    {
+      "claim": "E1: Chapter 11 distinguishes constraint reduction from categorical dissolution and requires the system, suppression and tier tests.",
+      "source_or_reference": "Fortino, Chapter 11, Identifying Promethean Technologies, August 2026 draft Rev 0.1, sections 11.2 and 11.7, pp. 3-4 and 8-11; supplied course PDF.",
+      "date_or_recency": "August 2026 draft; read 2026-10-22",
+      "evidence_type": "Course framework",
+      "notes": "Conceptual lens, not empirical performance evidence."
+    },
+    {
+      "claim": "E2: PUDU describes BellaBot Pro delivery modes, obstacle sensing and a 65 cm path-clearance specification.",
+      "source_or_reference": "https://www.pudurobotics.com/en/products/bellabotpro",
+      "date_or_recency": "Undated live product page; accessed 2026-10-22",
+      "evidence_type": "Manufacturer product specification",
+      "notes": "Supplier claim, not independent safety or ROI evidence. The page labels dish recognition and broadcast as under development; do not treat that feature as deployed."
+    },
+    {
+      "claim": "E3: PUDU reports a FlashBot elevator-integration test with Nippon Otis.",
+      "source_or_reference": "https://www.pudurobotics.com/about/news/652128195da24800447b01c3",
+      "date_or_recency": "2023-09-22; accessed 2026-10-22",
+      "evidence_type": "Manufacturer report of integration testing",
+      "notes": "Historical supplier report, not proof of compatibility with an arbitrary hotel elevator or independent long-run service performance."
+    },
+    {
+      "claim": "E4: The Servi Plus manual requires operating-space checks, mapping, human handoff and monitoring during peak periods.",
+      "source_or_reference": "https://www.bearrobotics.ai/s/Servi-Plus_User-Manual_EN.pdf",
+      "date_or_recency": "Version 1.1.1; copyright 2023; accessed 2026-10-22",
+      "evidence_type": "Manufacturer operating manual",
+      "notes": "Read safety and use sections, printed pp. 6, 10, 16 and 19. Model-specific limits do not transfer automatically to PUDU products; supports a bounded example of continuing human responsibilities."
+    },
+    {
+      "claim": "E5: Nav2 documentation explains how robot footprint and local navigation configuration affect passage through space.",
+      "source_or_reference": "https://docs.nav2.org/rolling/configuration_and_development/tuning_guide/",
+      "date_or_recency": "Live maintainer documentation; accessed 2026-10-22",
+      "evidence_type": "Original software-maintainer documentation",
+      "notes": "General technical illustration, not proof that either named robot uses Nav2 or is safe in a specific venue."
+    }
+  ]
 }

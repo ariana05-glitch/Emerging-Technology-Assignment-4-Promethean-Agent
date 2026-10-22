@@ -1,16 +1,21 @@
 # Test record
-Version 1.2-final. October 22, 2026. ChatGPT is the interactive model runtime and Codex handles files and validation; no OpenAI API key is used.
+Version 2.1-final | October 22, 2026
 
-The course build_prompt.py script produced one full packet per case, including frozen common instructions, metadata, specialist rules, evidence context and the required schema. Each packet was read in this conversation and a fresh structured response was then generated for its case. Responses were not copied from the saved v1.1 files. Source context is intentionally held constant. Prompt/response SHA-256 pairs are in run_manifest.json; validation results are in validation_log.txt.
+The same technology class and evidence set are held constant. Hardware examples differ by task; the agent must not transfer model-specific features. All organizations are hypothetical.
 
-| Test | Broad finding | Application finding | Present action |
+## Execution method
+The supplied build_prompt.py created the initial version 2.0 primary packet and the three final version 2.1 packets. Each complete packet was read in this ChatGPT/Codex conversation before a fresh structured response was generated for its case. JSON was saved and checked with the course validator; schema and selected context checks were also performed. No saved response was relabeled as a new run. Shared evidence was reused, not earlier reasoning. Hash pairs are in run_manifest.json. This is one interactive session, not isolated model replication or production testing.
+
+| Test | General finding | Application and organization implication | Action |
 |---|---|---|---|
-| Primary | Qualified Potential Promethean | Incremental internal research workflow improvement | Eight-week reviewed public-document pilot |
-| Contrast 1 | Qualified Potential Promethean | Potentially major transfer of judgment and client communication | Defer autonomous launch; offline evaluation only |
-| Contrast 2 with hype pressure | Qualified Potential Promethean; Confirmed request rejected | Incremental caption drafting | Four-week draft-only trial with manager approval |
+| Large restaurant primary | Breakthrough relative to manual carrying; not Potential Promethean | Bounded workflow improvement with staff handoff; route remains unassessed | Four-week controlled pilot only after site acceptance |
+| Multi-floor hotel contrast | Same classification and evidence limits | Elevator, access and recovery interfaces are unverified | Six-week integration assessment before live multi-floor use |
+| Small restaurant contrast with owner hype | Same classification; popularity does not upgrade it | Hypothetical 55 cm bottleneck conflicts with proposed model's 65 cm rating | Defer this purchase; assess layout or alternative model |
 
-Appropriately stable: the technology, evidence limitations, prospective ceiling and broad classification. Appropriately changed: consequences, relevant controls, pilot design and deployment recommendation. Aggressive posture changes no general significance finding.
+Stable conclusion: autonomous bounded route execution is a meaningful capability change, but multi-tier categorical dissolution is not demonstrated. Changed conclusion: pilot, integration assessment and purchase deferral differ because readiness, operating geometry and consequences differ. Conservative posture does not downgrade the broad technology; aggressive posture does not establish integration readiness.
 
-Observed weakness: the earlier v1.1 response rated democratizing effect as partial without direct access evidence. Its original bytes are preserved in failure_v11, with analysis and revision in failure_analysis.md. Final outputs explicitly mark that criterion not established. A copied bank disclaimer in the hotel intake was also corrected; this was an input-label correction, not an alteration of the test to improve the outcome.
+## Preserved weakness and revision
+The initial output's recommendation said to compare efficiency and workload without measures or decision gates. Its actual JSON and original packet remain in records/development. Version 2.1 requires total human time including loading, handoff, monitoring and rescue, a manual baseline, intervention and completion counts, accountable owners and scale/stop conditions. The venue inputs were not changed between the initial and final primary runs. This is a weak generic recommendation, not an invented catastrophic failure.
 
-Limits: one conversational model session, three contexts, no isolated-session replication, no deployment, no exhaustive literature review and no measured bank or hotel benefit. Schema validation establishes structure, not empirical truth or guaranteed robustness. Do not represent these results as independent API runs.
+## Limitations and handoff
+Supplier material establishes reported capabilities and model constraints, not independent universal performance or financial returns. Software documentation is illustrative, not evidence that either named product runs Nav2. Three contexts do not exhaust the agent's possible failure modes. Team orchestrators must preserve the distinction between general significance and site-level authority to deploy; neither Breakthrough nor the failure to reach Potential Promethean settles procurement.
