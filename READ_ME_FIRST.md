@@ -4,7 +4,7 @@ Assignment 4 | Li Yu-Erh (Ariana Li) | October 22, 2026
 ## Submission contents
 The specialist applies Chapter 11 to indoor wheeled delivery robots. It preserves explicit classification rules, supporting and contrary evidence, three-level findings, a qualification rule, an actual initial weak output and its revision, and three final context tests.
 
-Submission_Documents contains the Agent Record, readable primary output report, and short Independent Professional Judgment with AI verification note and 84-word Craft Gained. Matching Word copies are in the specialist records folder.
+Submission_Documents contains the Agent Record, readable primary output report, and short Independent Professional Judgment with AI verification note and 77-word Craft Gained. Matching Word copies are in the specialist records folder.
 
 ## Findings and comparison
 Technology: indoor autonomous delivery robots, assessed as integrated systems relative to manual carrying or pushing a cart. General classification: a bounded Breakthrough, with moderate confidence. Physical distance and human service responsibilities remain; cross-tier categorical dissolution is not established. Broad significance does not authorize procurement by itself.
